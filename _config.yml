@@ -5,7 +5,7 @@ description: > # this then means to ignore newlines until "baseurl:"
    Better site description.
 
 # social links
-twitter_username:https://mobile.twitter.com/ifefas# DO NOT include the @ character, or else the build will fail!
+twitter_username: https://twitter.com/ifefas  # DO NOT include the @ character, or else the build will fail!
 github_username:  https://github.com/ifelajulo # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to  r false to remove excerpts on the homepage
